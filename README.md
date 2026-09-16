@@ -1,13 +1,13 @@
-# B.Com Power BI Minor Project – Sales Dashboard
+# B.Com Power BI Academic Projects
 
-Welcome to the Power BI Minor Project repository! This project analyzes sales performance data using Microsoft Power BI to deliver actionable business insights.
+Welcome to my Power BI projects repository! This repository showcases interactive dashboards built using Microsoft Power BI for business data analysis.
 
-## Project Directory
+## Repository Structure
 
-* 📂 **[Minor-Project](./Minor-Project)**: Contains the project documentation, `README.md`, and the full PDF report (`PowerBI-Minor-Project-Sales-Dashboard.pdf`).
+* 📂 **[Minor-Project](./Minor-Project)**: Sales Performance Dashboard analysis with key KPI visualizations and regional metrics.
+* 📂 **[Major-Project](./Major-Project)**: Advanced business analytics dashboard and detailed report.
 
-## Key Highlights
-* Interactive Power BI sales analysis
-* Key KPI visualizations (Total Orders, Sales, Customers, Products)
-* Segmented breakdown by region, category, and order date
+## Tools Used
+* Microsoft Power BI
+* Data Visualization & Analytics
 *
